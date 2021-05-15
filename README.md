@@ -2,7 +2,7 @@ Documentation for hardcoded anticheat check names
 
 ---AAC 4---
 
-C3 (T2) Autoclicker <- Legit flags
+C3 (T2) Autoclicker <- Legit flags (fluctuating CPS)
 
 Move flags -> (Predicted movement with your rotations doesnt match their predicted movement, Velocity prediction, highjump, y/xz Modifiers, Strafe etc)
 
