@@ -12,5 +12,8 @@ Move flags -> (Predicted movement with your rotations doesnt match their predict
 
 Timer flags -> (Moved too fast over a specific time, ex Having an velocity that bypasses their movement checks, but having an too average move balance etc)
 
+---Matrix---
+
+exhibiting an aiming pattern similar to aimbot -> Simply checks if you rotations doesnt do abrupt stops while having high cps (legit flags, yes)
 
 -----------
