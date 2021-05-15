@@ -14,6 +14,6 @@ Timer flags -> (Moved too fast over a specific time, ex Having an velocity that 
 
 ---Matrix---
 
-exhibiting an aiming pattern similar to aimbot -> Simply checks if your rotations doesnt do abrupt stops while having high cps (legit flags, yes)
+exhibiting an aiming pattern similar to aimbot (component ka.abt.syn) -> Simply checks if your rotations doesnt do abrupt stops while having high cps (legit flags, yes)
 
 -----------
